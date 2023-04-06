@@ -5,4 +5,4 @@ Lemonade recipe:
 3. Honey
 4. Mint
 5. Conflict resolved!
-6. Changes for PR
+6. Changes for PR / David's changes for pull request.
