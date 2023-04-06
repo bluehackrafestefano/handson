@@ -4,4 +4,4 @@ Lemonade recipe:
 2. Lemon
 3. Honey
 4. Mint
-5. Something else...
+5. Conflict resolved!
