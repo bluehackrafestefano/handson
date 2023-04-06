@@ -5,3 +5,4 @@ Lemonade recipe:
 3. Honey
 4. Mint
 5. Conflict resolved!
+6.New line added
